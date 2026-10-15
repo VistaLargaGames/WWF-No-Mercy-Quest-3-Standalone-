@@ -15,9 +15,6 @@ Simply provide your copy of the 1.0 North American version of the game in the ma
 
 -random screen stretch/camera snapping here and there.
 
-ENJOY!
-
-follow me on all socials @VistaLargaGames
 
 CONTROLS:
 
@@ -34,3 +31,11 @@ CONTROLS:
 • Click either stick switches that wrestler between you and the CPU.
 • Left menu button pauses.
 • Meta button re-centers your view.
+
+## Credits
+Built on No Mercy Recompiled, N64Recomp and RT64 (MIT licensed).
+Not affiliated with Nintendo, Meta or Kawasaki.
+
+ENJOY!
+
+follow me on all socials @VistaLargaGames
