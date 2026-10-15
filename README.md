@@ -3,10 +3,12 @@ A standalone port of the WWF No Mercy N64 Recomp that runs natively on the MetaQ
 Take the ring just like we did in the 90's but in VR!
 
 FEATURES
-
+-60FPS
+-Immersive view
 -PLUG AND PLAY-
 Download APK from here and install using your MetaQuest 3 web browser or use sidequest.
 Simply provide your copy of the 1.0 North American version of the game in the main menu and start playing! This project will automatically load assets from the provided copy, so there is no need to go through a separate extraction step or build the game yourself.
+
 
 -KNOWN BUGS-
 
