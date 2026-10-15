@@ -34,7 +34,7 @@ CONTROLS:
 
 ## Credits
 Built on No Mercy Recompiled, N64Recomp and RT64 (MIT licensed).
-Not affiliated with Nintendo, Meta or Kawasaki.
+Not affiliated with Nintendo, Meta or WWE
 
 ENJOY!
 
