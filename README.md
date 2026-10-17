@@ -1,4 +1,4 @@
-<img width="1500" height="874" alt="672572032-96e13fd8-e2d7-4924-8be4-22d95dcc1411 (1)" src="https://github.com/user-attachments/assets/77029103-cbd5-4302-a0b7-110711646f00" />
+<img width="1344" height="784" alt="WWF No Mercy VR: Meta Quest 3 standalone, 4 player online, 60 FPS, immersive camera" src="banner.webp" />
 WWF-No-Mercy-Quest-3-Standalone-
 A standalone port of the WWF No Mercy N64 Recomp that runs natively on the MetaQuest 3.
 Take the ring just like we did in the 90's but in VR!
@@ -8,7 +8,7 @@ FEATURES
 -Immersive view
 -PLUG AND PLAY-
 Download APK from here and install using your MetaQuest 3 web browser or use sidequest.
-Simply provide your copy of the 1.0 North American version of the game in the main menu and start playing! This project will automatically load assets from the provided copy, so there is no need to go through a separate extraction step or build the game yourself.
+Simply provide your copy of the North American (USA) Rev 1 / "Rev A" version of the game in the main menu and start playing! This project will automatically load assets from the provided copy, so there is no need to go through a separate extraction step or build the game yourself.
 
 
 -KNOWN BUGS-
